@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "raleway" ;
+    src: url("../font/Raleway.ttf");
+}
+.header{
+    background: #0D6EFD;
+    height: 100px;
+}
+.inc-house{
+    margin-left: 10px;
+    font-family: raleway;
+    font-size: 26px;
+    color: #Ffff;
+    object-fit: contain;
+    font-weight: bold;
+}
+.cart{
+    width: 26px;
+    height: 26px;
+}
+.cart1{
+    width: 40px;
+    height: 40px;
+}
+
+.white{
+    color: #Ffff !important;
+}
+.nav-text{
+    font-size: 20px;
+    font-family: raleway;
+}
+.header-text{
+    text-align: center;
+}
+
+.gr-size{
+    font-size: 24px;
+    font-family: raleway;
+}
+.rt-size{
+    font-size: 20px;
+    color:#2C2D35;
+    font-family: raleway;
+}
+
+.card{
+    margin: 10px auto;
+}
+.main{
+    width: 80vw;
+    margin: 50px auto;
+}
+ .star{
+    margin-left: 70px;
+ }
+ .coll{
+    position: absolute;
+    bottom: 0;
+    left: 30px;
+ }
+ .coll1{
+    position: absolute;
+    top: 10vw;
+ }
+ .fr{
+    font-size: 2.5vw !important;;
+ }
+ 
+ .header2{
+    background: #0D6EFD;
+    height: auto;
+    width: auto;
+}
+.tr{
+    font-size: 14px;
+    font-family: raleway;
+}
+.tr3{
+    font-size: 10px;
+    font-family: raleway;
+}
